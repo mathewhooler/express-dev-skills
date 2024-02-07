@@ -1,0 +1,17 @@
+body {
+  padding: 60px;
+  font: 30px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color: lightgoldenrodyellow;
+  color: blue;
+  background-image: url("/images/Digital_rain_animation_medium_letters_shine.gif");
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: repeat;
+  background-size: cover;
+}
+
+a {
+  color: #00B7FF;
+}
